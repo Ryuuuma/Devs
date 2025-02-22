@@ -1,6 +1,8 @@
 function Home(){
-    return <h1>OLÁ</h1>
+    return <h1>Assista Solo leveling!</h1>
 }
+
+
 
 export default Home;
 
